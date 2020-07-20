@@ -3,6 +3,13 @@ body{
   text-align: center;
   font-family: 'Merriweather Sans', sans-serif;
 }
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #204051;
+  border-width: 5px;
+  width: 5%;
+}
 h1{
   margin: 0 auto 0 auto;
   font-family: 'Sacramento', cursive;
